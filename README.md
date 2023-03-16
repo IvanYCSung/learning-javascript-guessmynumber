@@ -2,4 +2,6 @@
 
 Javascript learning project
 1. Basic Javascript logic
-2. Learning how to create simple web games
+2. DOM manipulation
+3. selecting and manipulating HTML elements
+4. Handling events
